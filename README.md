@@ -1,1 +1,1 @@
-### Ambiente de desenvolvimento preconfigurado
+### Template React sem redux + config vscode
